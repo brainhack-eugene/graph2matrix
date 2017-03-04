@@ -35,3 +35,7 @@ for display, editing, and automated code generation).
 ## Output
 The primary output is a two dimensional array that represents the state
 transition matrix.
+
+## Dependencies
+
+- [NetworkX](https://networkx.github.io/), under the BSD license
