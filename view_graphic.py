@@ -7,6 +7,10 @@ ultimately, also provide functionality for interaction
 # Support for graphic rendering
 import matplotlib.pyplot as plt
 
+
+# but!... support for interactive windows: PyQt
+
+
 """
 Render a graph in a visual display
 

@@ -13,8 +13,4 @@ def prettyPrint(fsm):
 	# basic version for now...
 	print(fsm.adj)
 
-def writeToFile(fsm,filename):
-	with open(filename,'wb') as outfile:
-		outfile.write("need to fill this in!")
 		
-# ... and parse a 2D array to interpret as state transition matrix and create Graph
